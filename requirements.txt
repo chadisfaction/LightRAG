@@ -20,3 +20,10 @@ tenacity
 # LLM packages
 tiktoken
 xlsxwriter>=3.1.0
+
+fastapi
+uvicorn
+PyJWT
+aiofiles
+python-multipart
+psycopg2-binary
